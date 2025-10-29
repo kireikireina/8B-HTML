@@ -1,0 +1,33 @@
+body {
+    background-color: palevioletred;
+    color: white;
+}
+
+p {
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+p:hover{
+    color: aliceblue;
+}
+
+img {
+    height: 80px;
+    padding: 50px;
+}
+
+.pika {
+    background-color: white;
+    color: blueviolet;
+    padding: 80px;
+    margin: 80px;
+}
+
+.pika p{
+    text-align: left;
+    color: blueviolet;
+}
